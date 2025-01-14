@@ -32,6 +32,11 @@ MANIFEST
 *.manifest
 *.spec
 
+data
+rsenv
+.env
+env
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt

@@ -1,0 +1,15 @@
+pandas
+notebook
+numpy
+scikit-learn
+matplotlib
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+nltk
+tables
+pytest
+streamlit
+-e .
